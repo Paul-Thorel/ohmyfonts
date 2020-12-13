@@ -2,6 +2,6 @@ body {height: 100vh; width: 100vw;
 background-color: #111213;color:#eeeff1;
 display:flex; flex-direction : column;
 justify-content :center;
-font-family:monospace;}
+font-family:monospace;align-items:center;}
 
-#legend{margin-top:auto;}
+#legend{position: absolute;bottom:5px;left:5px; font-family :fantasy,cursive;}
